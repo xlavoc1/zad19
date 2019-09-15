@@ -1,0 +1,28 @@
+section{
+    background-color: #f5f5d1;
+    margin: 0 auto;
+    padding: 10px;
+    width: 25vw;
+    height: 90vh;
+    text-align: center;
+}
+div{
+    padding: 10px;
+    margin: 10px auto;
+    width: 85px;
+    height: 85px;
+    background-color: black;
+    }
+
+
+.drugi{
+    opacity: 0.7;
+}
+
+.trzeci{
+    opacity: 0.5;
+}
+
+.czwarty{
+    opacity: 0.2;
+}
